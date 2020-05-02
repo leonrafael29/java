@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="154e7eea-b073-40ba-9ea4-127bb32767db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../clab11/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab11/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab11/BnBSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab11/BnBSolverTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab11/BnBSolverTimingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab11/HiddenComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab11/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab9/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab9/SeparableEnemySolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab9/SeparableEnemySolverTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab9/input/party1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab9/input/party2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab9/input/party3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clab9/input/party4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/src/hw2/Percolation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/AStarGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/LazySolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/ShortestPathsSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/SolutionPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/SolverOutcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/WeightedEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/input/BasicPuzzle1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/input/BasicPuzzle2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/input/BasicPuzzle3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/input/BasicPuzzle4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/input/ElitePuzzle1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/input/ElitePuzzle2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/input/ElitePuzzle3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/input/HardPuzzle1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/input/HardPuzzle2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/input/HardPuzzle3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/input/berkeley-street-data.simple" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/input/words10000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/integerhoppuzzle/DemoIntegerHopPuzzleSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/integerhoppuzzle/IntegerHopGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/lectureexample/DemoAlternateExampleSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/lectureexample/DemoLectureExampleSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/lectureexample/WeightedDirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/sanitytests/SanityTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/slidingpuzzle/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/slidingpuzzle/BoardGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/slidingpuzzle/DemoRunSeveralPuzzles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/slidingpuzzle/DemoSlidingPuzzleSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/streetmap/DemoStreetDirections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/streetmap/GraphBuildingHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/streetmap/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/streetmap/StreetMapGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/wordladderpuzzle/DemoWordPuzzleSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/hw4/wordladderpuzzle/WordGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/proj2ab/DoubleMapPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw4/bearmaps/proj2ab/ExtrinsicMinPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/TestSortAlgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BSTMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/hw4/AStarGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/hw4/ShortestPathsSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/hw4/SolverOutcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/hw4/WeightedEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/hw4/WeirdSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/hw4/streetmap/GraphBuildingHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/hw4/streetmap/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/hw4/streetmap/StreetMapGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2ab/DoubleMapPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2ab/ExtrinsicMinPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2ab/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2ab/PointSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2ab/WeirdPointSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/AugmentedStreetMapGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/MapServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/MapServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/Router.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/server/handler/APIRouteHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/server/handler/APIRouteHandlerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/server/handler/impl/ClearRouteAPIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/server/handler/impl/RasterAPIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/server/handler/impl/RedirectAPIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/server/handler/impl/RoutingAPIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/server/handler/impl/SearchAPIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/proj2c/utils/Tuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/test/TestDirections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/test/TestRasterAPIHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/test/TestRouter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/bearmaps/test/TestRouterTiny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/page/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/page/marker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/page/round_marker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/page/scripts/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/page/styles/map.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/simple/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/simple/test1234.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2c/static/simple/testTwelveImages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/Core/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/Core/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/Core/RandomUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/InputDemo/DemoInputSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/InputDemo/InputSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/InputDemo/KeyboardInputSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/InputDemo/RandomInputSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/InputDemo/StringInputDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/SaveDemo/Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/SaveDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/SaveDemo/Shepherd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/SaveDemo/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/SaveDemo/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/TileEngine/TERenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/TileEngine/TETile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/TileEngine/Tileset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/lab12/BoringWorldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/lab12/HexWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/lab12/RandomWorldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/lab12/project3prep.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/lab13/MemoryGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj3/byow/lab13/MemoryGameSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/ArrayRingBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/ArrayRingBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/BoundedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/BoundedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/GuitarString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/GuitarString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/TestGuitarString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1/es/datastructur/synthesizer/TestGuitarString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/hw2/InteractivePercolationVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/src/hw2/InteractivePercolationVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/hw2/Percolation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/hw2/PercolationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/src/hw2/PercolationFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/hw2/PercolationStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/src/hw2/PercolationStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/hw2/PercolationVisualizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/src/hw2/PercolationVisualizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/inputFiles/snake1001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map61B.java" beforeDir="false" afterPath="$PROJECT_DIR$/Map61B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/LinkedListDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/LinkedListDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1a/LinkedListDequeTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lab7" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SXYd7rKyJUzU0ZMpqnTnuu3P3E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestBSTMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestBSTMap" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestBSTMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="154e7eea-b073-40ba-9ea4-127bb32767db" name="Default Changelist" comment="" />
+      <created>1571711491351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571711491351</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
